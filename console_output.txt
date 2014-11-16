@@ -1,0 +1,20 @@
+Elements of circular buffer of size 8
+Read Pointer 0, Write Pointer 0
+Element at index 0 is 8
+Element at index 1 is 10
+Element at index 2 is 12
+Element at index 3 is 14
+Element at index 4 is 16
+Element at index 5 is 18
+Element at index 6 is 20
+Element at index 7 is 22
+Deque 8 at index 0
+Deque 10 at index 1
+Elements of circular buffer of size 6
+Read Pointer 2, Write Pointer 0
+Element at index 2 is 12
+Element at index 3 is 14
+Element at index 4 is 16
+Element at index 5 is 18
+Element at index 6 is 20
+Element at index 7 is 22
